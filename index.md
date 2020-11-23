@@ -1,9 +1,10 @@
 ## Welcome to duidui page
-
+<html>
         <video width="320" height="240" controls>
   <source src="ester2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+        </html>
 
 You can use the [editor on GitHub](https://github.com/dz-enigmatologist/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
